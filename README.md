@@ -17,7 +17,7 @@ Become a Creator Rather Than a Consumer.
 
 ![giphy2](https://github.com/lucaspinheiro27/lucaspinheiro27/assets/115811060/eed6538a-1528-4c65-b8a2-d062f2559e2a)
 
-## Ouvindo Spotify🎧
+## Listening Spotify🎧
 [![Spotify](https://novatorem-henna-three.vercel.app/api/spotify)](https://open.spotify.com/user/Lusz)
 
 ### Skills 
