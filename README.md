@@ -1,5 +1,7 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Lucas Pinheiro
-======================================================================================================================================
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Lucas+Pinheiro!;" />
+</h1>
+============================================================================================
 
 Enthusiastic and passionate about technology
 --------------------------------------------
@@ -33,3 +35,6 @@ Become a Creator Rather Than a Consumer.
 
 <li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/lucaspinheiro27"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
 </ul>
+
+
+
