@@ -3,7 +3,7 @@
 </h1>
 ====================================================================================
 
-Enthusiastic and passionate about technology
+Enthusiastic and passionate about Technology
 --------------------------------------------
 
 Become a Creator Rather Than a Consumer.
