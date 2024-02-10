@@ -8,14 +8,10 @@ Enthusiastic and passionate about Technology
 
 Become a Creator Rather Than a Consumer.
 
-![giphy](https://github.com/lucaspinheiro27/lucaspinheiro27/assets/115811060/dbc7844b-137f-4e07-af5c-17e1204f4b3d)
-
 *   🌍  I'm based in São Paulo, São Paulo
 *   ✉️  You can contact me at [lucaspinheiro2708@gmail.com](mailto:lucaspinheiro2708@gmail.com)
 *   🧠  I'm learning Data Science
 *   ⚡  I´m secretly Spiderman...But don´t tell anyone.
-
-![giphy2](https://github.com/lucaspinheiro27/lucaspinheiro27/assets/115811060/eed6538a-1528-4c65-b8a2-d062f2559e2a)
 
 ## Listening to Spotify🎧
 [![Spotify](https://novatorem-henna-three.vercel.app/api/spotify)](https://open.spotify.com/user/Lusz)
