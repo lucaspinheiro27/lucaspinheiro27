@@ -30,9 +30,9 @@ Become a Creator Rather Than a Consumer.
 
 ### Badges
 
-[![](https://raw.githubusercontent.com/lucaspinheiro27/lucaspinheiro27/master/profile-summary-card-output/algolia/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/lucaspinheiro27/lucaspinheiro27/master/profile-summary-card-output/algolia/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/lucaspinheiro27/lucaspinheiro27/master/profile-summary-card-output/algolia/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/lucaspinheiro27/lucaspinheiro27/master/profile-summary-card-output/algolia/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/lucaspinheiro27/lucaspinheiro27/master/profile-summary-card-output/algolia/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/lucaspinheiro27/lucaspinheiro27/master/profile-summary-card-output/chartreuse_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/lucaspinheiro27/lucaspinheiro27/master/profile-summary-card-output/chartreuse_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/lucaspinheiro27/lucaspinheiro27/master/profile-summary-card-output/chartreuse_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/lucaspinheiro27/lucaspinheiro27/master/profile-summary-card-output/chartreuse_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/lucaspinheiro27/lucaspinheiro27/master/profile-summary-card-output/chartreuse_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 ### Support Me
 
@@ -47,4 +47,5 @@ Become a Creator Rather Than a Consumer.
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lucaspinheiro27/lucaspinheiro27/output/github-contribution-grid-snake.svg">
 </picture>
 <br><br>
+
 
