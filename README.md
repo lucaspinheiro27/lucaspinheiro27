@@ -41,5 +41,10 @@ Become a Creator Rather Than a Consumer.
 <li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/lucaspinheiro27"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
 </ul>
 
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lucaspinheiro27/lucaspinheiro27/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lucaspinheiro27/lucaspinheiro27/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lucaspinheiro27/lucaspinheiro27/output/github-contribution-grid-snake.svg">
+</picture>
+<br><br>
 
