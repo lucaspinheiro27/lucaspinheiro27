@@ -1,7 +1,6 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Lucas+Pinheiro!;" />
 </h1>
-====================================================================================
 
 Enthusiastic and passionate about Technology
 --------------------------------------------
@@ -13,12 +12,12 @@ Become a Creator Rather Than a Consumer.
 *   🧠  I'm learning Data Science
 *   ⚡  I´m secretly Spiderman...But don't tell anyone.
 
-## Listening to Spotify🎧
+### Listening to Spotify
 [![Spotify](https://novatorem-henna-three.vercel.app/api/spotify)](https://open.spotify.com/user/Lusz)
 
 
 ### Skills 
-[![My Skills](https://skillicons.dev/icons?i=docker,git,sqlite,mongodb,figma,gcp,kali,linux,powershell,py,bash,&theme=light&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,git,sqlite,mongodb,gcp,kali,linux,powershell,py,bash,&theme=light&perline=3)](https://skillicons.dev)
 <p align="left">
 <a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" /></a>
                     </p>
