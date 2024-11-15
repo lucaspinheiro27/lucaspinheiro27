@@ -10,7 +10,7 @@ Become a Creator Rather Than a Consumer.
 *   🌍  I'm based in São Paulo, São Paulo
 *   ✉️  You can contact me at [lucaspinheiro2708@gmail.com](mailto:lucaspinheiro2708@gmail.com)
 *   🧠  I'm learning Data Science
-*   ⚡  I´m secretly Spiderman...But don't tell anyone.
+*   ⚡  I'm secretly Spiderman...But don't tell anyone.
 
 ### Listening to Spotify
 [![Spotify](https://novatorem-henna-three.vercel.app/api/spotify)](https://open.spotify.com/user/Lusz)
