@@ -7,7 +7,7 @@ Enthusiastic and passionate about Technology
 
 Become a Creator Rather Than a Consumer.
 
-*   🌍  I'm based in São Paulo, São Paulo
+*   🌍  I'm based in São Paulo, Brazil
 *   ✉️  You can contact me at [lucaspinheiro2708@gmail.com](mailto:lucaspinheiro2708@gmail.com)
 *   🧠  I'm learning Data Science
 *   ⚡  I'm secretly Spiderman...But don't tell anyone.
@@ -29,9 +29,9 @@ Become a Creator Rather Than a Consumer.
 
 ### Badges
 
-[![](https://raw.githubusercontent.com/lucaspinheiro27/lucaspinheiro27/master/profile-summary-card-output/chartreuse_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/lucaspinheiro27/lucaspinheiro27/master/profile-summary-card-output/chartreuse_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/lucaspinheiro27/lucaspinheiro27/master/profile-summary-card-output/chartreuse_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/lucaspinheiro27/lucaspinheiro27/master/profile-summary-card-output/chartreuse_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/lucaspinheiro27/lucaspinheiro27/master/profile-summary-card-output/chartreuse_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/lucaspinheiro27/lucaspinheiro27/master/profile-summary-card-output/github/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/lucaspinheiro27/lucaspinheiro27/master/profile-summary-card-output/github/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/lucaspinheiro27/lucaspinheiro27/master/profile-summary-card-output/github/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/lucaspinheiro27/lucaspinheiro27/master/profile-summary-card-output/github/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/lucaspinheiro27/lucaspinheiro27/master/profile-summary-card-output/github/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 ### Support Me
 
