@@ -4,8 +4,8 @@
 
 Enthusiastic and passionate about Technology
 --------------------------------------------
-Become a Creator Rather Than a Consumer.
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+Become a Creator Rather Than a Consumer.⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ![Alt Text](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTU5dXkzYmg2M3FiaGdrOGdpNHkwaTBvcGJ3cHJzcGM1bTBvN3p1NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SPyOcU4bynCus/giphy.gif)
 
 *   🌍  I'm based in São Paulo, Brazil
@@ -29,9 +29,9 @@ Become a Creator Rather Than a Consumer.
 
 ### Badges
 
-[![](https://raw.githubusercontent.com/lucaspinheiro27/lucaspinheiro27/master/profile-summary-card-output/transparent/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/lucaspinheiro27/lucaspinheiro27/master/profile-summary-card-output/transparent/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/lucaspinheiro27/lucaspinheiro27/master/profile-summary-card-output/transparent/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/lucaspinheiro27/lucaspinheiro27/master/profile-summary-card-output/transparent/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/lucaspinheiro27/lucaspinheiro27/master/profile-summary-card-output/transparent/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/lucaspinheiro27/lucaspinheiro27/master/profile-summary-card-output/react/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/lucaspinheiro27/lucaspinheiro27/master/profile-summary-card-output/react/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/lucaspinheiro27/lucaspinheiro27/master/profile-summary-card-output/react/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/lucaspinheiro27/lucaspinheiro27/master/profile-summary-card-output/react/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/lucaspinheiro27/lucaspinheiro27/master/profile-summary-card-output/react/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 ### Support Me
 
