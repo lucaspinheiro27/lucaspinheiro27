@@ -27,7 +27,6 @@ Enthusiastic and passionate about Technology
                                          ⬛🟥🟩🟫🟦🟪🟦⬛
                                          🟩🟥🟩🟨🟦🟪🟦⬜
 
-
 Become a Creator Rather Than a Consumer.
 
 *   🌍  I'm based in São Paulo, Brazil
