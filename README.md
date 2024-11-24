@@ -5,6 +5,30 @@
 Enthusiastic and passionate about Technology
 --------------------------------------------
 
+                   -`                     IUseArchbtw@arch
+                  .o+`                    ----------------
+                 `ooo/                    OS: Arch linux x86_64
+                `+oooo:                   Model: ASUS TUF Gaming F15 FX506HC_FX506HC 1.0
+               `+oooooo:                  Kernel: 6.8.5-zen1-1-zen
+               -+oooooo+:                 Uptime: 7 hours, 49 mins
+             `/:-:++oooo+:                Packages 1244 (pacman), 13 (flatpak)
+            `/++++/+++++++:               Shell: bash 5.2.26
+           `/++++++++++++++:              Resolution: 1920x1080
+          `/+++ooooooooooooo/`            DE: LXQt 1.4.0
+         ./ooosssso++osssssso+`           WM: Openbox
+        .oossssso-````/ossssss+`          Theme: Breeze [GTK2/3]
+       -osssssso.      :ssssssso.         Icons: breeze [GTK2/3]
+      :osssssss/        osssso+++.        Terminal: qterminal
+     /ossssssss/        +ssssooo/-        Terminal Font: Source Code Pro 12
+   `/ossssso+/:-        -:/+osssso+-      CPU: 11th Gen Intel 15-11400H (12) @ 4.500GHz
+  `+sso+:-`                 `.-/+oso:     GPU: NVIDIA GeForce RTX 3050 Mobile
+ `++:.                           `-/+/    Memory: 8546 / 15731MiB
+ .`                                 ` 
+                                         ⬛🟥🟩🟫🟦🟪🟦⬛
+                                         🟩🟥🟩🟨🟦🟪🟦⬜⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+
+
 Become a Creator Rather Than a Consumer.
 
 *   🌍  I'm based in São Paulo, Brazil
