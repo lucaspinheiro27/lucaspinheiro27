@@ -18,9 +18,6 @@ Become a Creator Rather Than a Consumer.⠀
 
 ### Skills 
 [![My Skills](https://skillicons.dev/icons?i=docker,git,sqlite,mongodb,gcp,kali,linux,powershell,py,bash,&theme=light&perline=3)](https://skillicons.dev)
-<p align="left">
-<a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" /></a>
-                    </p>
                     
 ### Socials
                   
