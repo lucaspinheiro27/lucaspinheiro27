@@ -6,8 +6,6 @@ Enthusiastic and passionate about Technology
 --------------------------------------------
 Become a Creator Rather Than a Consumer.⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-![Alt Text](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTU5dXkzYmg2M3FiaGdrOGdpNHkwaTBvcGJ3cHJzcGM1bTBvN3p1NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SPyOcU4bynCus/giphy.gif)
-
 *   🌍  I'm based in São Paulo, Brazil
 *   ✉️  You can contact me at [lucaspinheiro2708@gmail.com](mailto:lucaspinheiro2708@gmail.com)
 *   🧠  I'm learning Data Science
