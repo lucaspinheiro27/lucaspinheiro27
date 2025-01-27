@@ -6,8 +6,8 @@ Become a Creator rather than a Consumer
 --------------------------------------------
 
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-*   🌍  I'm based in São Paulo, Brazil.
-*   ✉️  You can contact me at [lucaspinheiro2708@gmail.com](mailto:lucaspinheiro2708@gmail.com).
+*   🌍  São Paulo, Brazil.
+*   ✉️  Contact me at [lucaspinheiro2708@gmail.com](mailto:lucaspinheiro2708@gmail.com).
 *   🧠  Machine Learning | Deep Learning | Data Analytics.
 
 ### Listening to Spotify
