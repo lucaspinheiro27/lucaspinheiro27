@@ -1,9 +1,8 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There+👋🏼;+I'm+Lucas+Pinheiro;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+You;+I'm+Lucas+Pinheiro;" />
 </h1>
 
 Become a Creator rather than a Consumer
---------------------------------------------
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 *   🌍  São Paulo, Brazil.
 *   ✉️  Contact me at [lucaspinheiro2708@gmail.com](mailto:lucaspinheiro2708@gmail.com).
@@ -40,5 +39,3 @@ Become a Creator rather than a Consumer
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lucaspinheiro27/lucaspinheiro27/output/github-contribution-grid-snake.svg">
 </picture>
 <br><br>
-
-
