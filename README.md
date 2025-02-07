@@ -4,8 +4,7 @@
 
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTdveG13MTJqeW9kcTI3ZDA1cHIydTIzbTB3NHJiYzlhaGhnb3pqOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TBf2czxR420jCORE0o/giphy.gif" alt="Alt Text" width="150" height="150">
 
-Become a Creator rather than a Consumer
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+### Become a Creator rather than a Consumer⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 *   🌍  São Paulo, Brazil.
 *   ✉️  Contact me at [lucaspinheiro2708@gmail.com](mailto:lucaspinheiro2708@gmail.com).
 *   🧠  Machine Learning | Deep Learning | Data Analytics.
