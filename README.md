@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=𝙒𝙚𝙡𝙘𝙤𝙢𝙚+(っ◔◡◔)っ;{+𝙸'𝚖+𝙻𝚞𝚌𝚊𝚜+𝙿𝚒𝚗𝚑𝚎𝚒𝚛𝚘+}+;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=𝙒𝙚𝙡𝙘𝙤𝙢𝙚+(っ◔◡◔)っ;{+𝙸'𝚖+𝙻𝚞𝚌𝚊𝚜+𝙿𝚒𝚗𝚑𝚎𝚒𝚛𝚘+}+;&color=F00" />
 </h1>
 
 <img src="https://media.giphy.com/media/Sh1iCtJZEdx4PFYy4q/giphy.gif" alt="Alt Text" width="200" height="200">
