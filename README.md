@@ -5,7 +5,7 @@
 <img src="https://media.giphy.com/media/Sh1iCtJZEdx4PFYy4q/giphy.gif" alt="Alt Text" width="200" height="200">
 
 ### Become a Creator rather than a consumer⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-*   🌍  São Paulo, Brazil.
+*   🇧🇷  São Paulo, Brazil.
 *   ✉️  Contact me at [lucaspinheiro2708@gmail.com](mailto:lucaspinheiro2708@gmail.com).
 *   🧠  Machine Learning | Deep Learning | Data Analytics.
 
