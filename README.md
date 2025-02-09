@@ -1,12 +1,24 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines={+'+𝙒𝙚𝙡𝙘𝙤𝙢𝙚+'+};{+'+𝙄𝙢+𝙇𝙪𝙘𝙖𝙨+𝙋𝙞𝙣𝙝𝙚𝙞𝙧𝙤+'+};&color=C6F4D6" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=+𝙒𝙚𝙡𝙘𝙤𝙢𝙚+🤗;+𝙄𝙢+𝙇𝙪𝙘𝙖𝙨+𝙋𝙞𝙣𝙝𝙚𝙞𝙧𝙤+;&color=C6F4D6" />
 </h1>
 
 ### Become a Creator rather than a consumer⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-*   🇧🇷  São Paulo, Brazil.
-*   ✉️  Contact me at [lucaspinheiro2708@gmail.com](mailto:lucaspinheiro2708@gmail.com).
-*   🧠  Machine Learning | Deep Learning | Data Analytics.
+
+
+```python
+def display_profile(location: str, email: str, expertise: list[str]) -> None:
+    """Display formatted profile information."""
+    print(f"Location: {location}")
+    print(f"Contact Email: {email}")
+    print("Expertise:")
+    print("\n".join(f"  - {field}" for field in expertise))
+
+LOCATION = "🇧🇷 São Paulo, Brazil"
+EMAIL = "lucaspinheiro2708@gmail.com"
+EXPERTISE = ["Machine Learning", "Deep Learning", "Data Analytics"]
+
+display_profile(LOCATION, EMAIL, EXPERTISE)
+```
 
 ### Listening to Spotify
 [![Spotify](https://novatorem-henna-three.vercel.app/api/spotify)](https://open.spotify.com/user/Lusz)
