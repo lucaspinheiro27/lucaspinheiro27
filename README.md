@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines={+'+𝙒𝙚𝙡𝙘𝙤𝙢𝙚+'+};{+'+𝙄'𝙢+𝙇𝙪𝙘𝙖𝙨+𝙋𝙞𝙣𝙝𝙚𝙞𝙧𝙤+'+};&color=8B0A1A" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines={+'+𝙒𝙚𝙡𝙘𝙤𝙢𝙚+'+};{+'+𝙄'𝙢+𝙇𝙪𝙘𝙖𝙨+𝙋𝙞𝙣𝙝𝙚𝙞𝙧𝙤+'+};&color=ADD8E6" />
 </h1>
 
 ### Become a Creator rather than a consumer⠀
