@@ -6,18 +6,12 @@
 
 
 ```python
-def display_profile(location: str, email: str, expertise: list[str]) -> None:
-    """Display formatted profile information."""
-    print(f"Location: {location}")
-    print(f"Contact Email: {email}")
-    print("Expertise:")
-    print("\n".join(f"  - {field}" for field in expertise))
+def display_profile(location, email, expertise):
+    print(f"Location: {location}\nContact Email: {email}\nExpertise:")
+    print(*[f"  - {field}" for field in expertise], sep="\n")
 
-LOCATION = "🇧🇷 São Paulo, Brazil"
-EMAIL = "lucaspinheiro2708@gmail.com"
-EXPERTISE = ["Machine Learning", "Deep Learning", "Data Analytics"]
-
-display_profile(LOCATION, EMAIL, EXPERTISE)
+display_profile("🇧🇷 São Paulo, Brazil", "lucaspinheiro2708@gmail.com", 
+                ["Machine Learning", "Deep Learning", "Data Analytics"])
 ```
 
 ### Listening to Spotify
