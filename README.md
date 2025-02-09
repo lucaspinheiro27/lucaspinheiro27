@@ -12,8 +12,7 @@ L_n :=
 \end{cases}
 $$
 
-### Become a Creator rather than a consumer
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+### Become a Creator rather than a consumer⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 *   🇧🇷  São Paulo, Brazil.
 *   ✉️  Contact me at [lucaspinheiro2708@gmail.com](mailto:lucaspinheiro2708@gmail.com).
 *   🧠  Machine Learning | Deep Learning | Data Analytics.
