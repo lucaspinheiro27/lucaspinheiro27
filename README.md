@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=+𝙒𝙚𝙡𝙘𝙤𝙢𝙚+🤗;+𝙄+𝙖𝙢+𝙇𝙪𝙘𝙖𝙨+𝙋𝙞𝙣𝙝𝙚𝙞𝙧𝙤+;&color=00ffff" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=+𝙒𝙚𝙡𝙘𝙤𝙢𝙚+🤗;&color=00ffff" />
 </h1>
 
 ### Badges
