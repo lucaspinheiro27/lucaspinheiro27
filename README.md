@@ -15,7 +15,7 @@
 <br><br>
 
 ### Skills 
-[![My Skills](https://skillicons.dev/icons?i=docker,git,sqlite,mongodb,gcp,linux,powershell,py,bash,&theme=light&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,git,sqlite,mongodb,gcp,linux,powershell,py,bash&theme=light)](https://skillicons.dev)
 
 ### Listening to Spotify
 [![Spotify](https://novatorem-henna-three.vercel.app/api/spotify)](https://open.spotify.com/user/Lusz)
