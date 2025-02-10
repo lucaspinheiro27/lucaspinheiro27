@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=+𝙒𝙚𝙡𝙘𝙤𝙢𝙚+🤗;+𝙄+𝙖𝙢+𝙇𝙪𝙘𝙖𝙨+𝙋𝙞𝙣𝙝𝙚𝙞𝙧𝙤+;&color=87CEEB" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=+𝙒𝙚𝙡𝙘𝙤𝙢𝙚+🤗;+𝙄+𝙖𝙢+𝙇𝙪𝙘𝙖𝙨+𝙋𝙞𝙣𝙝𝙚𝙞𝙧𝙤+;&color=4169E1" />
 </h1>
 
 ### Become a Creator rather than a consumer⠀
@@ -23,7 +23,7 @@ display_profile("🇧🇷 São Paulo, Brazil", "lucaspinheiro2708@gmail.com",
 ### Socials                 
   <p align="left"> <a href="https://www.github.com/lucaspinheiro27" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/lucas-pinheiro27" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="http://www.medium.com/@lucaspinheiro27" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /> </picture> </a></p>
 
-<img src="https://media.giphy.com/media/Sh1iCtJZEdx4PFYy4q/giphy.gif" alt="Alt Text" width="150" height="150">
+<img src="https://media.giphy.com/media/txnXmljUiXibLKQxzZ/giphy.gif" alt="Alt Text" width="125" height="200">
 
 ### Badges
 [![](https://raw.githubusercontent.com/lucaspinheiro27/lucaspinheiro27/master/profile-summary-card-output/react/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
