@@ -1,20 +1,15 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=+𝙒𝙚𝙡𝙘𝙤𝙢𝙚+🤗;+𝙄+𝙖𝙢+𝙇𝙪𝙘𝙖𝙨+𝙋𝙞𝙣𝙝𝙚𝙞𝙧𝙤+;&color=5218fa" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=+𝙒𝙚𝙡𝙘𝙤𝙢𝙚+🤗;+𝙄+𝙖𝙢+𝙇𝙪𝙘𝙖𝙨+𝙋𝙞𝙣𝙝𝙚𝙞𝙧𝙤+;&color=00ffff" />
 </h1>
 
 ### Become a Creator rather than a consumer⠀
 
-
 ```perl
 Location: 🇧🇷 São Paulo, Brazil
-Contact Email: lucaspinheiro2708@gmail.com
+Email: lucaspinheiro2708@proton.me
 Expertise:
   ├── Machine Learning
-      │   ├── Natural Language Processing
-      │   ├── Computer Vision
   ├── Deep Learning
-      │   ├── Generative Models
-      │   └── Reinforcement Learning  
   └── Data Analytics 
 ```
 
