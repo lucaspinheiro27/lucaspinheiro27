@@ -5,13 +5,13 @@
 ### Become a Creator rather than a consumer⠀
 
 
-```python
-def display_profile(location, email, expertise):
-    print(f"Location: {location}\nContact Email: {email}\nExpertise:")
-    print(*[f"  - {field}" for field in expertise], sep="\n")
-
-display_profile("🇧🇷 São Paulo, Brazil", "lucaspinheiro2708@gmail.com", 
-                ["Machine Learning", "Deep Learning", "Data Analytics"])
+```java script
+Location: 🇧🇷 São Paulo, Brazil
+Contact Email: lucaspinheiro2708@proton.me
+Expertise:
+  - Machine Learning
+  - Deep Learning
+  - Data Analytics  
 ```
 
 ### Listening to Spotify
