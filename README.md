@@ -15,7 +15,23 @@
 </picture>
 <br><br>
 
-### Skills 
+### Skills
+<table>
+  <tr>
+    <td>
+      <img src="https://media.giphy.com/media/PvwNfTzHUX9y7ICxiF/giphy.gif" width="150">
+    </td>
+    <td>
+      <img src="https://media.giphy.com/media/wz4jsOgrZgxHg8eUKf/giphy.gif" width="150">
+    </td>
+    <td>
+      <img src="https://media.giphy.com/media/GMp6XOxRv6FnBFjTdZ/giphy.gif" width="150">
+    </td>
+  </tr>
+</table>
+
+
+### Stack 
 [![My Skills](https://skillicons.dev/icons?i=docker,git,sqlite,mongodb,gcp,linux,powershell,py,bash&theme=light)](https://skillicons.dev)
 
 ### Socials                 
