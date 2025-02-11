@@ -25,4 +25,4 @@
 
 ### Become a Creator rather than a consumer⠀ 
 
-<img src="https://media.giphy.com/media/txnXmljUiXibLKQxzZ/giphy.gif" alt="Alt Text" width="125" height="180">
+<img src="https://media.giphy.com/media/txnXmljUiXibLKQxzZ/giphy.gif" alt="Alt Text" width="125" height="190">
