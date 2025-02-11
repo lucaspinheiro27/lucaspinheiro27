@@ -1,6 +1,6 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&size=35&center=true&vCenter=true&width=700&height=40&duration=4000&lines=When+the+light+shine;I+go+python&color=00ffff" align="center">
-  <img align="center" src="https://media.giphy.com/media/txnXmljUiXibLKQxzZ/giphy.gif" height="125px" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&size=35&center=true&vCenter=true&width=700&height=40&duration=4000&lines=Welcome&color=00ffff" align="center">
+  <img align="center" src="https://media.giphy.com/media/txnXmljUiXibLKQxzZ/giphy.gif" height="120px" />
 </h1>
 
 ### Badges
