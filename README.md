@@ -1,5 +1,6 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=+𝐖𝐡𝐞𝐧+𝐭𝐡𝐞+𝐥𝐢𝐠𝐡𝐭+𝐬𝐡𝐢𝐧𝐞;𝐈+𝐠𝐨+𝐩𝐲𝐭𝐡𝐨𝐧;&color=00ffff" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=𝐖𝐡𝐞𝐧+𝐭𝐡𝐞+𝐥𝐢𝐠𝐡𝐭+𝐬𝐡𝐢𝐧𝐞;𝐈+𝐠𝐨+𝐩𝐲𝐭𝐡𝐨𝐧&color=00ffff" align="center">
+  <img align="center" src="https://media.giphy.com/media/txnXmljUiXibLKQxzZ/giphy.gif" height="125px" />
 </h1>
 
 ### Badges
@@ -22,7 +23,3 @@
 
 ### Listening to Spotify
 [![Spotify](https://novatorem-henna-three.vercel.app/api/spotify)](https://open.spotify.com/user/Lusz)
-
-### Become a Creator rather than a consumer⠀ 
-
-<img src="https://media.giphy.com/media/txnXmljUiXibLKQxzZ/giphy.gif" alt="Alt Text" width="125" height="190">
