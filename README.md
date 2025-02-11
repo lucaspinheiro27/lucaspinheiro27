@@ -19,13 +19,13 @@
 <table>
   <tr>
     <td>
-      <img src="https://media.giphy.com/media/PvwNfTzHUX9y7ICxiF/giphy.gif" width="150">
+      <img src="https://media.giphy.com/media/PvwNfTzHUX9y7ICxiF/giphy.gif" width="130">
     </td>
     <td>
-      <img src="https://media.giphy.com/media/wz4jsOgrZgxHg8eUKf/giphy.gif" width="150">
+      <img src="https://media.giphy.com/media/wz4jsOgrZgxHg8eUKf/giphy.gif" width="130">
     </td>
     <td>
-      <img src="https://media.giphy.com/media/GMp6XOxRv6FnBFjTdZ/giphy.gif" width="150">
+      <img src="https://media.giphy.com/media/GMp6XOxRv6FnBFjTdZ/giphy.gif" width="130">
     </td>
   </tr>
 </table>
