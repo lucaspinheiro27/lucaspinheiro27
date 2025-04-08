@@ -16,7 +16,7 @@
 <br><br>
 
 ### Skills
-[![My Skills](https://skillicons.dev/icons?i=docker,git,sqlite,mysql,mongodb,gcp,linux,powershell,py,pycharm,sklearn,bash,azure,bsd,debian,figma,gitlab,latex,stackoverflow,ubuntu,vim&perline=7&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,mysql,linux,latex,gcp,mongodb,git,docker&perline=4&theme=light)](https://skillicons.dev)
 
 ### Socials
 
